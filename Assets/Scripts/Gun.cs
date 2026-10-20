@@ -8,12 +8,9 @@ public class Gun : MonoBehaviour
     public float fireRate = 0.2f;
 
     private float nextFireTime;
-    private bool isPlayerGun = false;
 
     private void Update()
     {
-        if (!isPlayerGun) return;
-
         RotateToMouse();
         Shoot();
     }
@@ -46,26 +43,9 @@ public class Gun : MonoBehaviour
 
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-            Instantiate(
-                projectilePrefab,
-                firePoint.position,
-                Quaternion.Euler(0f, 0f, angle - 90f)
-            );
+            Instantiate(projectilePrefab,firePoint.position, Quaternion.Euler(0f, 0f, angle - 90f));
 
             nextFireTime = Time.time + fireRate;
-        }
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            isPlayerGun = true;
-
-            Transform equipPoint = collision.transform.Find("EquipPoint");
-
-            transform.SetParent(equipPoint);
-            transform.localPosition = new Vector3(0.5f, 0f, -5f);
         }
     }
 }
