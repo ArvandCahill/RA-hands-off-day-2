@@ -10,6 +10,7 @@ public class LevelManager : MonoBehaviour
     public TextMeshProUGUI killText;
 
     public int coinCount = 0;
+    public TextMeshProUGUI coinText;
 
     private void Awake()
     {
@@ -19,6 +20,7 @@ public class LevelManager : MonoBehaviour
     private void Start()
     {
         UpdateKillText();
+        UpdateCoinText();   
     }
 
     public void AddKill()
@@ -30,7 +32,7 @@ public class LevelManager : MonoBehaviour
     public void AddCoin(int amount)
     {
         coinCount += amount;
-        Debug.Log("Coin count: " + coinCount);
+        UpdateCoinText();
     }
 
     private void UpdateKillText()
@@ -38,6 +40,14 @@ public class LevelManager : MonoBehaviour
         if (killText != null)
         {
             killText.text = "Kills: " + killCount;
+        }
+    }
+
+    private void UpdateCoinText()
+    {
+        if (coinText != null)
+        {
+            coinText.text = "Coins: " + coinCount;
         }
     }
 }
