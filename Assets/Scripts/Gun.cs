@@ -45,6 +45,8 @@ public class Gun : MonoBehaviour
 
             Instantiate(projectilePrefab,firePoint.position, Quaternion.Euler(0f, 0f, angle - 90f));
 
+            Instantiate(projectilePrefab, firePoint.position, Quaternion.Euler(0f, 0f, angle - 90f));
+
             nextFireTime = Time.time + fireRate;
         }
     }

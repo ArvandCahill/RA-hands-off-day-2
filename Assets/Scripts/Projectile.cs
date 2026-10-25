@@ -17,9 +17,25 @@ public class Projectile : MonoBehaviour
         transform.Translate(Vector2.up * speed * Time.deltaTime);
     }
 
+    private void Move()
+    {
+        /*
+            CLUE:
+            Gerakkan peluru maju ke depan/atas lokal menggunakan transform.Translate:
+            transform.Translate(Vector2.up * speed * Time.deltaTime);
+        */
+        // Tulis kode di sini
+
+        transform.Translate(Vector2.up * speed * Time.deltaTime);
+    }
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        /*
+            CLUE:
+            Ganti "false" dengan kondisi pengecekan tag musuh:
+            collision.CompareTag("Enemy")
+        */
         if (collision.CompareTag("Enemy"))
         {
             Health health = collision.GetComponent<Health>();
