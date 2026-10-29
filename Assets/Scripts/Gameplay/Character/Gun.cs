@@ -1,11 +1,15 @@
-
 using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
+    [Header("Combat Settings")]
     public GameObject projectilePrefab;
     public Transform firePoint;
     public float fireRate = 0.2f;
+
+    [Header("Audio Settings")]
+    public AudioSource audioSource;
+    public AudioClip pistolShootSound;
 
     private float nextFireTime;
 
@@ -36,14 +40,22 @@ public class Gun : MonoBehaviour
 
     private void Shoot()
     {
-        if (Input.GetMouseButton(0) && Time.time >= nextFireTime)
+        
+        if (Input.GetMouseButtonDown(0) && Time.time >= nextFireTime)
         {
             Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 direction = (mousePosition - firePoint.position).normalized;
 
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-            Instantiate(projectilePrefab,firePoint.position, Quaternion.Euler(0f, 0f, angle - 90f));
+      
+            Instantiate(projectilePrefab, firePoint.position, Quaternion.Euler(0f, 0f, angle - 90f));
+
+        
+            if (audioSource != null && pistolShootSound != null)
+            {
+                audioSource.PlayOneShot(pistolShootSound);
+            }
 
             nextFireTime = Time.time + fireRate;
         }

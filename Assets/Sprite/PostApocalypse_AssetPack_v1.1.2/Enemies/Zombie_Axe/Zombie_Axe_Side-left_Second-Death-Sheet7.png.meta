@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -131,12 +131,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 24
-        height: 19
+        width: 27
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_1
       rect:
         serializedVersion: 2
-        x: 31
+        x: 27
         y: 0
-        width: 24
-        height: 19
+        width: 27
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_2
       rect:
         serializedVersion: 2
-        x: 58
+        x: 54
         y: 0
-        width: 24
+        width: 27
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_3
       rect:
         serializedVersion: 2
-        x: 84
+        x: 81
         y: 0
-        width: 52
+        width: 27
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,12 +219,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_4
       rect:
         serializedVersion: 2
-        x: 135
+        x: 108
         y: 0
-        width: 28
-        height: 8
+        width: 27
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,12 +241,12 @@ TextureImporter:
       name: Zombie_Axe_Side-left_Second-Death-Sheet7_5
       rect:
         serializedVersion: 2
-        x: 162
+        x: 135
         y: 0
         width: 27
-        height: 8
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,11 +259,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Zombie_Axe_Side-left_Second-Death-Sheet7_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d007177ec9f4f4d5aadc06622672468a
+      internalID: 1917693117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4a5714d415dba4270aa448e97007a485
     internalID: 0
     vertices: []
     indices: 
@@ -271,7 +293,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":27.0,"y":20.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Zombie_Axe_Side-left_Second-Death-Sheet7_0: 7796711314086441301
       Zombie_Axe_Side-left_Second-Death-Sheet7_1: 8250191631404466005
@@ -279,6 +303,7 @@ TextureImporter:
       Zombie_Axe_Side-left_Second-Death-Sheet7_3: -8013006486605919173
       Zombie_Axe_Side-left_Second-Death-Sheet7_4: -4973817473995673372
       Zombie_Axe_Side-left_Second-Death-Sheet7_5: -3930537256586537998
+      Zombie_Axe_Side-left_Second-Death-Sheet7_6: 1917693117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

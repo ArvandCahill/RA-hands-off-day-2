@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -142,10 +142,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 18
+        width: 29
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_1
       rect:
         serializedVersion: 2
-        x: 28
+        x: 29
         y: 0
-        width: 20
-        height: 22
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,10 +186,10 @@ TextureImporter:
         serializedVersion: 2
         x: 58
         y: 0
-        width: 20
-        height: 21
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_3
       rect:
         serializedVersion: 2
-        x: 71
-        y: 18
-        width: 6
-        height: 6
+        x: 87
+        y: 0
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_4
       rect:
         serializedVersion: 2
-        x: 87
+        x: 116
         y: 0
-        width: 20
-        height: 23
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_5
       rect:
         serializedVersion: 2
-        x: 117
+        x: 145
         y: 0
-        width: 23
-        height: 19
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_6
       rect:
         serializedVersion: 2
-        x: 147
+        x: 174
         y: 0
-        width: 28
-        height: 9
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: Zombie_Big_Side_Second-Death-Sheet8_7
       rect:
         serializedVersion: 2
-        x: 177
+        x: 203
         y: 0
-        width: 26
-        height: 10
+        width: 29
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,33 +312,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Zombie_Big_Side_Second-Death-Sheet8_8
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 0
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05078ddfca665dfb0800000000000000
-      internalID: -4623676549246717872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a7e9e3adccb35419aa5a7a3e81e65608
     internalID: 0
     vertices: []
     indices: 
@@ -346,7 +324,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":29.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Zombie_Big_Side_Second-Death-Sheet8_0: -7261565944211147335
       Zombie_Big_Side_Second-Death-Sheet8_1: -1719818562306403416
@@ -356,7 +336,6 @@ TextureImporter:
       Zombie_Big_Side_Second-Death-Sheet8_5: 8882885207721337448
       Zombie_Big_Side_Second-Death-Sheet8_6: 4393112785573717552
       Zombie_Big_Side_Second-Death-Sheet8_7: -1914318189157213311
-      Zombie_Big_Side_Second-Death-Sheet8_8: -4623676549246717872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
