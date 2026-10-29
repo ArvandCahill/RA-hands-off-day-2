@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -250,8 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24a1ecd0cbbe04f959dc6be03b8fb173
-      internalID: -89538100
+      spriteID: 7f87d1529289a114f810dead5aa5b309
+      internalID: -762574188
       vertices: []
       indices: 
       edges: []
@@ -272,8 +272,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db0119de21e246759ef0f22e2cd4322
-      internalID: 640639806
+      spriteID: be6b4274e8b49f64b91d0c14c74a207b
+      internalID: -1569011070
       vertices: []
       indices: 
       edges: []
@@ -282,7 +282,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5d351e784708a4e71b5bfaa2f98f3ad7
+    spriteID: ccb808e4deb8068458ce4044202d8d1b
     internalID: 0
     vertices: []
     indices: 
@@ -292,15 +292,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":21.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":21.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Zombie_Axe_Down_First-Attack-Sheet7_0: 5245437932600381998
       Zombie_Axe_Down_First-Attack-Sheet7_1: -5666863244864550518
       Zombie_Axe_Down_First-Attack-Sheet7_2: 3966514221775130072
       Zombie_Axe_Down_First-Attack-Sheet7_3: -5782850893974987511
       Zombie_Axe_Down_First-Attack-Sheet7_4: -4710463534487524387
-      Zombie_Axe_Down_First-Attack-Sheet7_5: -89538100
-      Zombie_Axe_Down_First-Attack-Sheet7_6: 640639806
+      Zombie_Axe_Down_First-Attack-Sheet7_5: -762574188
+      Zombie_Axe_Down_First-Attack-Sheet7_6: -1569011070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
