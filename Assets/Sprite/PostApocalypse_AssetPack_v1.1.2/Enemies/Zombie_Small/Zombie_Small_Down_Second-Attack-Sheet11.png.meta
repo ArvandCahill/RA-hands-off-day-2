@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,11 +147,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 41
+        y: 0
         width: 15
-        height: 16
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -169,11 +169,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 15
-        y: 41
+        y: 0
         width: 15
-        height: 16
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -190,12 +190,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 25
-        width: 13
-        height: 22
+        x: 30
+        y: 0
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -212,12 +212,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 17
-        width: 17
-        height: 19
+        x: 45
+        y: 0
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -234,12 +234,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_4
       rect:
         serializedVersion: 2
-        x: 61
-        y: 11
-        width: 13
-        height: 20
+        x: 60
+        y: 0
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_5
       rect:
         serializedVersion: 2
-        x: 74
-        y: 7
+        x: 75
+        y: 0
         width: 15
-        height: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -278,12 +278,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_6
       rect:
         serializedVersion: 2
-        x: 89
-        y: 4
-        width: 14
-        height: 16
+        x: 90
+        y: 0
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -301,11 +301,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 105
-        y: 2
-        width: 13
-        height: 17
+        y: 0
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,12 +322,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_8
       rect:
         serializedVersion: 2
-        x: 122
+        x: 120
         y: 0
-        width: 12
-        height: 18
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,12 +344,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_9
       rect:
         serializedVersion: 2
-        x: 137
+        x: 135
         y: 0
-        width: 12
-        height: 17
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -366,12 +366,12 @@ TextureImporter:
       name: Zombie_Small_Down_Second-Attack-Sheet11_10
       rect:
         serializedVersion: 2
-        x: 151
+        x: 150
         y: 0
-        width: 14
-        height: 16
+        width: 15
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -388,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cbf72629f2fa448f9a308ea0a2e853c9
     internalID: 0
     vertices: []
     indices: 
@@ -396,7 +396,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":57.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Zombie_Small_Down_Second-Attack-Sheet11_0: 8152693043167985230
       Zombie_Small_Down_Second-Attack-Sheet11_1: 5735130042246529921
