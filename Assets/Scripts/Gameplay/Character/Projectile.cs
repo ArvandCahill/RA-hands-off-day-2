@@ -1,4 +1,3 @@
-
 using UnityEngine;
 
 public class Projectile : MonoBehaviour
@@ -7,6 +6,12 @@ public class Projectile : MonoBehaviour
     public float lifeTime = 3f;
     public int damage = 1;
 
+    private Vector2 direction;
+
+    public void Initialize(Vector2 shootDirection)
+    {
+        direction = shootDirection.normalized;
+    }
     private void Start()
     {
         Destroy(gameObject, lifeTime);
@@ -14,39 +19,19 @@ public class Projectile : MonoBehaviour
 
     private void Update()
     {
-        transform.Translate(Vector2.up * speed * Time.deltaTime);
+        transform.position += (Vector3)(direction * speed * Time.deltaTime);
     }
 
-    private void Move()
-    {
-        /*
-            CLUE:
-            Gerakkan peluru maju ke depan/atas lokal menggunakan transform.Translate:
-            transform.Translate(Vector2.up * speed * Time.deltaTime);
-        */
-        // Tulis kode di sini
-
-        transform.Translate(Vector2.up * speed * Time.deltaTime);
-    }
-    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        /*
-            CLUE:
-            Ganti "false" dengan kondisi pengecekan tag musuh:
-            collision.CompareTag("Enemy")
-        */
         if (collision.CompareTag("Enemy"))
         {
             Health health = collision.GetComponent<Health>();
 
             if (health != null)
-            {
                 health.TakeDamage(damage);
-            }
 
             Destroy(gameObject);
         }
     }
-
 }

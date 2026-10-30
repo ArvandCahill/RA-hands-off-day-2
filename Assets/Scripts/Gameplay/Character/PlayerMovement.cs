@@ -19,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     private static readonly int LastMoveX = Animator.StringToHash("lastMoveX");
     private static readonly int LastMoveY = Animator.StringToHash("lastMoveY");
 
+    public Vector2 LastMoveDirection => lastMoveDirection;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
