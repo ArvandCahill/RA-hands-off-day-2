@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 4e4453cdab4d5d24a89d8df6b9bc6cb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8002617287663851483
+    second: Draco_Reload_sheet_0
+  - first:
+      213: -614637013371365684
+    second: Draco_Reload_sheet_1
+  - first:
+      213: 897025130495103718
+    second: Draco_Reload_sheet_2
+  - first:
+      213: -526579557067500968
+    second: Draco_Reload_sheet_3
+  - first:
+      213: 6147366307457474291
+    second: Draco_Reload_sheet_4
+  - first:
+      213: -4681983494124978857
+    second: Draco_Reload_sheet_5
+  - first:
+      213: -3511676643918999814
+    second: Draco_Reload_sheet_6
+  - first:
+      213: -4736265533413614152
+    second: Draco_Reload_sheet_7
+  - first:
+      213: -4239887884059292188
+    second: Draco_Reload_sheet_8
+  - first:
+      213: -3073889444171094385
+    second: Draco_Reload_sheet_9
+  - first:
+      213: 3572180209766948090
+    second: Draco_Reload_sheet_10
+  - first:
+      213: -8300053697073965191
+    second: Draco_Reload_sheet_11
+  - first:
+      213: 3457851974028067363
+    second: Draco_Reload_sheet_12
+  - first:
+      213: -397129094710776706
+    second: Draco_Reload_sheet_13
+  - first:
+      213: 7327967573020399101
+    second: Draco_Reload_sheet_14
+  - first:
+      213: -5295519383854260255
+    second: Draco_Reload_sheet_15
+  - first:
+      213: 6315333924214304963
+    second: Draco_Reload_sheet_16
+  - first:
+      213: 9178837162588659210
+    second: Draco_Reload_sheet_17
+  - first:
+      213: -8020644513397313363
+    second: Draco_Reload_sheet_18
+  - first:
+      213: 2033625684297099268
+    second: Draco_Reload_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528656ff9fdf0f090800000000000000
+      internalID: -8002617287663851483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 154
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6513094ee5877f0800000000000000
+      internalID: -614637013371365684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 156
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e252c18a9fd27c00800000000000000
+      internalID: 897025130495103718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 148
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852520bcea631b8f0800000000000000
+      internalID: -526579557067500968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe15342615df4550800000000000000
+      internalID: 6147366307457474291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 147
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d307c71d0460fb0800000000000000
+      internalID: -4681983494124978857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe0c21b2b4044fc0800000000000000
+      internalID: -3511676643918999814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd94f65797654eb0800000000000000
+      internalID: -4736265533413614152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc92fee64e825c0800000000000000
+      internalID: -4239887884059292188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86eb5136d95755d0800000000000000
+      internalID: -3073889444171094385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd6dc79fee29130800000000000000
+      internalID: 3572180209766948090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9771d39532940dc80800000000000000
+      internalID: -8300053697073965191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32283d5cc02ccff20800000000000000
+      internalID: 3457851974028067363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7caac3413d1d7af0800000000000000
+      internalID: -397129094710776706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55673beab22b560800000000000000
+      internalID: 7327967573020399101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 58
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efdb206d298286b0800000000000000
+      internalID: -5295519383854260255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c074c67eb294a750800000000000000
+      internalID: 6315333924214304963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e504f84c7c16f70800000000000000
+      internalID: 9178837162588659210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0744d6f42f0b090800000000000000
+      internalID: -8020644513397313363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draco_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a3a609c3e83c10800000000000000
+      internalID: 2033625684297099268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Draco_Reload_sheet_0: -8002617287663851483
+      Draco_Reload_sheet_1: -614637013371365684
+      Draco_Reload_sheet_10: 3572180209766948090
+      Draco_Reload_sheet_11: -8300053697073965191
+      Draco_Reload_sheet_12: 3457851974028067363
+      Draco_Reload_sheet_13: -397129094710776706
+      Draco_Reload_sheet_14: 7327967573020399101
+      Draco_Reload_sheet_15: -5295519383854260255
+      Draco_Reload_sheet_16: 6315333924214304963
+      Draco_Reload_sheet_17: 9178837162588659210
+      Draco_Reload_sheet_18: -8020644513397313363
+      Draco_Reload_sheet_19: 2033625684297099268
+      Draco_Reload_sheet_2: 897025130495103718
+      Draco_Reload_sheet_3: -526579557067500968
+      Draco_Reload_sheet_4: 6147366307457474291
+      Draco_Reload_sheet_5: -4681983494124978857
+      Draco_Reload_sheet_6: -3511676643918999814
+      Draco_Reload_sheet_7: -4736265533413614152
+      Draco_Reload_sheet_8: -4239887884059292188
+      Draco_Reload_sheet_9: -3073889444171094385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

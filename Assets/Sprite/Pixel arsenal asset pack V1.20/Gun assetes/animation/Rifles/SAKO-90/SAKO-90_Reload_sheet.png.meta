@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 8b33b09c76eaa694f90cc752bd17ac54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5113611991994380765
+    second: SAKO-90_Reload_sheet_0
+  - first:
+      213: -2607044034118152822
+    second: SAKO-90_Reload_sheet_1
+  - first:
+      213: 5971817619237498412
+    second: SAKO-90_Reload_sheet_2
+  - first:
+      213: -4586849604523354036
+    second: SAKO-90_Reload_sheet_3
+  - first:
+      213: 54728337643867028
+    second: SAKO-90_Reload_sheet_4
+  - first:
+      213: 7181385268990514204
+    second: SAKO-90_Reload_sheet_5
+  - first:
+      213: -423399077076409250
+    second: SAKO-90_Reload_sheet_6
+  - first:
+      213: -4349968900044291484
+    second: SAKO-90_Reload_sheet_7
+  - first:
+      213: 1477000252553787625
+    second: SAKO-90_Reload_sheet_8
+  - first:
+      213: -3634195589382075336
+    second: SAKO-90_Reload_sheet_9
+  - first:
+      213: 3438302263440162977
+    second: SAKO-90_Reload_sheet_10
+  - first:
+      213: 44059141880128771
+    second: SAKO-90_Reload_sheet_11
+  - first:
+      213: 1313013404996733192
+    second: SAKO-90_Reload_sheet_12
+  - first:
+      213: -4252978646596813227
+    second: SAKO-90_Reload_sheet_13
+  - first:
+      213: -2458419395429609205
+    second: SAKO-90_Reload_sheet_14
+  - first:
+      213: -3834792335834215780
+    second: SAKO-90_Reload_sheet_15
+  - first:
+      213: -7001042251978265797
+    second: SAKO-90_Reload_sheet_16
+  - first:
+      213: -4197122066248945114
+    second: SAKO-90_Reload_sheet_17
+  - first:
+      213: 8194521318541446168
+    second: SAKO-90_Reload_sheet_18
+  - first:
+      213: -6915734111194317354
+    second: SAKO-90_Reload_sheet_19
+  - first:
+      213: -7255536264587190334
+    second: SAKO-90_Reload_sheet_20
+  - first:
+      213: -7049194677164769122
+    second: SAKO-90_Reload_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b00e730337f640800000000000000
+      internalID: 5113611991994380765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0690834be1dbd0800000000000000
+      internalID: -2607044034118152822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 158
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee1121c7820e250800000000000000
+      internalID: 5971817619237498412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 150
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c489e3c369c3850c0800000000000000
+      internalID: -4586849604523354036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 159
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b0964122f62c000800000000000000
+      internalID: 54728337643867028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 146
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1417618ad769a360800000000000000
+      internalID: 7181385268990514204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e1ac58c8cf1af0800000000000000
+      internalID: -423399077076409250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620dd0255ec1a3c0800000000000000
+      internalID: -4349968900044291484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e871aa77eb5f7410800000000000000
+      internalID: 1477000252553787625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 110
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0792cd5eb09dc0800000000000000
+      internalID: -3634195589382075336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 99
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0c5c211bd47bf20800000000000000
+      internalID: 3438302263440162977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305afdc5e878c9000800000000000000
+      internalID: 44059141880128771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 53
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80908263cb2c83210800000000000000
+      internalID: 1313013404996733192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 63
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e764444726af4c0800000000000000
+      internalID: -4252978646596813227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 63
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01dc7ac590f1edd0800000000000000
+      internalID: -2458419395429609205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a063b20b418cac0800000000000000
+      internalID: -3834792335834215780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba5593a2d47de90800000000000000
+      internalID: -7001042251978265797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6223742d7b3d0c5c0800000000000000
+      internalID: -4197122066248945114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c470809b9c8b170800000000000000
+      internalID: 8194521318541446168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf53d87706600a0800000000000000
+      internalID: -6915734111194317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 15
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd05675382f4b90800000000000000
+      internalID: -7255536264587190334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAKO-90_Reload_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 15
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9005031aca3c2e90800000000000000
+      internalID: -7049194677164769122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SAKO-90_Reload_sheet_0: 5113611991994380765
+      SAKO-90_Reload_sheet_1: -2607044034118152822
+      SAKO-90_Reload_sheet_10: 3438302263440162977
+      SAKO-90_Reload_sheet_11: 44059141880128771
+      SAKO-90_Reload_sheet_12: 1313013404996733192
+      SAKO-90_Reload_sheet_13: -4252978646596813227
+      SAKO-90_Reload_sheet_14: -2458419395429609205
+      SAKO-90_Reload_sheet_15: -3834792335834215780
+      SAKO-90_Reload_sheet_16: -7001042251978265797
+      SAKO-90_Reload_sheet_17: -4197122066248945114
+      SAKO-90_Reload_sheet_18: 8194521318541446168
+      SAKO-90_Reload_sheet_19: -6915734111194317354
+      SAKO-90_Reload_sheet_2: 5971817619237498412
+      SAKO-90_Reload_sheet_20: -7255536264587190334
+      SAKO-90_Reload_sheet_21: -7049194677164769122
+      SAKO-90_Reload_sheet_3: -4586849604523354036
+      SAKO-90_Reload_sheet_4: 54728337643867028
+      SAKO-90_Reload_sheet_5: 7181385268990514204
+      SAKO-90_Reload_sheet_6: -423399077076409250
+      SAKO-90_Reload_sheet_7: -4349968900044291484
+      SAKO-90_Reload_sheet_8: 1477000252553787625
+      SAKO-90_Reload_sheet_9: -3634195589382075336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

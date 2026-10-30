@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: b4470d939ffc27c47a7f2bf64ba5ba63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3712202175131166638
+    second: P90_Reload_sheet_0
+  - first:
+      213: 453684753683399878
+    second: P90_Reload_sheet_1
+  - first:
+      213: 232187398452319024
+    second: P90_Reload_sheet_2
+  - first:
+      213: -8010930305738577625
+    second: P90_Reload_sheet_3
+  - first:
+      213: 4148277745072838521
+    second: P90_Reload_sheet_4
+  - first:
+      213: 8118508321405480470
+    second: P90_Reload_sheet_5
+  - first:
+      213: -7232730763442434412
+    second: P90_Reload_sheet_6
+  - first:
+      213: 4593546927580053601
+    second: P90_Reload_sheet_7
+  - first:
+      213: 5957174560660386397
+    second: P90_Reload_sheet_8
+  - first:
+      213: 3513559035258845930
+    second: P90_Reload_sheet_9
+  - first:
+      213: 5894185102898120590
+    second: P90_Reload_sheet_10
+  - first:
+      213: 3692533870138344247
+    second: P90_Reload_sheet_11
+  - first:
+      213: 4945203233422781373
+    second: P90_Reload_sheet_12
+  - first:
+      213: 6238287214349794751
+    second: P90_Reload_sheet_13
+  - first:
+      213: 6880794920920322545
+    second: P90_Reload_sheet_14
+  - first:
+      213: -1147462815967129474
+    second: P90_Reload_sheet_15
+  - first:
+      213: -1445712481398647106
+    second: P90_Reload_sheet_16
+  - first:
+      213: 7438470736868905118
+    second: P90_Reload_sheet_17
+  - first:
+      213: 1004793491515289560
+    second: P90_Reload_sheet_18
+  - first:
+      213: 111540647821999542
+    second: P90_Reload_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P90_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7202fc534648330800000000000000
+      internalID: 3712202175131166638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 160
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44f4731efcb4600800000000000000
+      internalID: 453684753683399878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033921e6535e83300800000000000000
+      internalID: 232187398452319024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296a06a45573d090800000000000000
+      internalID: -8010930305738577625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 160
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97799b071a4a19930800000000000000
+      internalID: 4148277745072838521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2d6bfd4cbaa070800000000000000
+      internalID: 8118508321405480470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e49f8f0bd20ab90800000000000000
+      internalID: -7232730763442434412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 112
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1600f7dc79e8fbf30800000000000000
+      internalID: 4593546927580053601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 112
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52f72153b22ca250800000000000000
+      internalID: 5957174560660386397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeab7f1b35ba2c030800000000000000
+      internalID: 3513559035258845930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8744a25f1a5cc150800000000000000
+      internalID: 5894185102898120590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c1b2bdf38e3330800000000000000
+      internalID: 3692533870138344247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb2746d324e0a440800000000000000
+      internalID: 4945203233422781373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd3e2a6b29d29650800000000000000
+      internalID: 6238287214349794751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f194c9468e7d7f50800000000000000
+      internalID: 6880794920920322545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705f4df5a46310f0800000000000000
+      internalID: -1147462815967129474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb692ea682ccfebe0800000000000000
+      internalID: -1445712481398647106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90953779b1ca3760800000000000000
+      internalID: 7438470736868905118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa46e5b5eb1fd00800000000000000
+      internalID: 1004793491515289560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd7273d0a54c8100800000000000000
+      internalID: 111540647821999542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      P90_Reload_sheet_0: 3712202175131166638
+      P90_Reload_sheet_1: 453684753683399878
+      P90_Reload_sheet_10: 5894185102898120590
+      P90_Reload_sheet_11: 3692533870138344247
+      P90_Reload_sheet_12: 4945203233422781373
+      P90_Reload_sheet_13: 6238287214349794751
+      P90_Reload_sheet_14: 6880794920920322545
+      P90_Reload_sheet_15: -1147462815967129474
+      P90_Reload_sheet_16: -1445712481398647106
+      P90_Reload_sheet_17: 7438470736868905118
+      P90_Reload_sheet_18: 1004793491515289560
+      P90_Reload_sheet_19: 111540647821999542
+      P90_Reload_sheet_2: 232187398452319024
+      P90_Reload_sheet_3: -8010930305738577625
+      P90_Reload_sheet_4: 4148277745072838521
+      P90_Reload_sheet_5: 8118508321405480470
+      P90_Reload_sheet_6: -7232730763442434412
+      P90_Reload_sheet_7: 4593546927580053601
+      P90_Reload_sheet_8: 5957174560660386397
+      P90_Reload_sheet_9: 3513559035258845930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

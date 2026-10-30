@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: bb90fbbf6d28d914790954e697f442e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4568685903101090207
+    second: PumpAction_Reload_sheet_0
+  - first:
+      213: -1993849373388760946
+    second: PumpAction_Reload_sheet_1
+  - first:
+      213: 2966601946930183338
+    second: PumpAction_Reload_sheet_2
+  - first:
+      213: 4938954361918553690
+    second: PumpAction_Reload_sheet_3
+  - first:
+      213: -3991987999675359434
+    second: PumpAction_Reload_sheet_4
+  - first:
+      213: -6081577044521993996
+    second: PumpAction_Reload_sheet_5
+  - first:
+      213: -3049247907711983432
+    second: PumpAction_Reload_sheet_6
+  - first:
+      213: 2190962275995400010
+    second: PumpAction_Reload_sheet_7
+  - first:
+      213: -4264654379615921474
+    second: PumpAction_Reload_sheet_8
+  - first:
+      213: 2032629326170905210
+    second: PumpAction_Reload_sheet_9
+  - first:
+      213: 4513518935691934719
+    second: PumpAction_Reload_sheet_10
+  - first:
+      213: 6728422582850006730
+    second: PumpAction_Reload_sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99dca87f9b376f30800000000000000
+      internalID: 4568685903101090207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 86
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88178b0f8c6454e0800000000000000
+      internalID: -1993849373388760946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 87
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac71c4c0cc7b2920800000000000000
+      internalID: 2966601946930183338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 88
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e750013d0ba8440800000000000000
+      internalID: 4938954361918553690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5ab3901c9998c0800000000000000
+      internalID: -3991987999675359434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 46
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8b81b46e5e99ba0800000000000000
+      internalID: -6081577044521993996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b069bcfe25eea5d0800000000000000
+      internalID: -3049247907711983432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47bcf0f49cd76e10800000000000000
+      internalID: 2190962275995400010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebadd25df67e0d4c0800000000000000
+      internalID: -4264654379615921474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a55725a99553c10800000000000000
+      internalID: 2032629326170905210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbbae0fe8d33ae30800000000000000
+      internalID: 4513518935691934719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpAction_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acead7db0b8206d50800000000000000
+      internalID: 6728422582850006730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PumpAction_Reload_sheet_0: 4568685903101090207
+      PumpAction_Reload_sheet_1: -1993849373388760946
+      PumpAction_Reload_sheet_10: 4513518935691934719
+      PumpAction_Reload_sheet_11: 6728422582850006730
+      PumpAction_Reload_sheet_2: 2966601946930183338
+      PumpAction_Reload_sheet_3: 4938954361918553690
+      PumpAction_Reload_sheet_4: -3991987999675359434
+      PumpAction_Reload_sheet_5: -6081577044521993996
+      PumpAction_Reload_sheet_6: -3049247907711983432
+      PumpAction_Reload_sheet_7: 2190962275995400010
+      PumpAction_Reload_sheet_8: -4264654379615921474
+      PumpAction_Reload_sheet_9: 2032629326170905210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

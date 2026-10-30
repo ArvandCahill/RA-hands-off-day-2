@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0977ed54d8abfdc4487330dc587db1f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1097460238758986449
+    second: Glock15_Reload_sheet_0
+  - first:
+      213: 8425839248927454353
+    second: Glock15_Reload_sheet_1
+  - first:
+      213: 945303521466750602
+    second: Glock15_Reload_sheet_2
+  - first:
+      213: -4305284205022269438
+    second: Glock15_Reload_sheet_3
+  - first:
+      213: 2492079465394293937
+    second: Glock15_Reload_sheet_4
+  - first:
+      213: 5226093114624851014
+    second: Glock15_Reload_sheet_5
+  - first:
+      213: 8813884127391690381
+    second: Glock15_Reload_sheet_6
+  - first:
+      213: -2100569670640615075
+    second: Glock15_Reload_sheet_7
+  - first:
+      213: -129773921051901591
+    second: Glock15_Reload_sheet_8
+  - first:
+      213: 2986460209263003429
+    second: Glock15_Reload_sheet_9
+  - first:
+      213: -2424990535618990031
+    second: Glock15_Reload_sheet_10
+  - first:
+      213: -924893564649131905
+    second: Glock15_Reload_sheet_11
+  - first:
+      213: 7332562381563083418
+    second: Glock15_Reload_sheet_12
+  - first:
+      213: -2516617073017272371
+    second: Glock15_Reload_sheet_13
+  - first:
+      213: -2418676643248644064
+    second: Glock15_Reload_sheet_14
+  - first:
+      213: -3913763966316633582
+    second: Glock15_Reload_sheet_15
+  - first:
+      213: 8118278352856520107
+    second: Glock15_Reload_sheet_16
+  - first:
+      213: -3233632244473514908
+    second: Glock15_Reload_sheet_17
+  - first:
+      213: -2323597753352080017
+    second: Glock15_Reload_sheet_18
+  - first:
+      213: -528946226922316075
+    second: Glock15_Reload_sheet_19
+  - first:
+      213: 4700470753386630584
+    second: Glock15_Reload_sheet_20
+  - first:
+      213: 4549650426222620746
+    second: Glock15_Reload_sheet_21
+  - first:
+      213: -4404675774519710607
+    second: Glock15_Reload_sheet_22
+  - first:
+      213: 6954876191428290708
+    second: Glock15_Reload_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2db7a93ab905c0f0800000000000000
+      internalID: -1097460238758986449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 151
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1947dd6a7289ee470800000000000000
+      internalID: 8425839248927454353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8693f95b846e1d00800000000000000
+      internalID: 945303521466750602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003c8e63de8044c0800000000000000
+      internalID: -4305284205022269438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc4fd6f115a59220800000000000000
+      internalID: 2492079465394293937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c345cafffc68840800000000000000
+      internalID: 5226093114624851014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 149
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea2a87ae4315a70800000000000000
+      internalID: 8813884127391690381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c18b830749d2e0800000000000000
+      internalID: -2100569670640615075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961879e6e43f23ef0800000000000000
+      internalID: -129773921051901591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 112
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c5f4ccb9027920800000000000000
+      internalID: 2986460209263003429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130febcb4f3b85ed0800000000000000
+      internalID: -2424990535618990031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f703b08043e1a23f0800000000000000
+      internalID: -924893564649131905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ab57ee2ae72c560800000000000000
+      internalID: 7332562381563083418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74f1f0b1e231dd0800000000000000
+      internalID: -2516617073017272371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02061ac58622f6ed0800000000000000
+      internalID: -2418676643248644064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 53
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21229fc98648fa9c0800000000000000
+      internalID: -3913763966316633582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 55
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba591c1462be9a070800000000000000
+      internalID: 8118278352856520107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 57
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46438ed2b94df13d0800000000000000
+      internalID: -3233632244473514908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65bd8e772ce0cfd0800000000000000
+      internalID: -2323597753352080017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1307853ec8a8f0800000000000000
+      internalID: -528946226922316075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd09bcfe3d6b3140800000000000000
+      internalID: 4700470753386630584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40343325fa932f30800000000000000
+      internalID: 4549650426222620746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cebf458b27fd2c0800000000000000
+      internalID: -4404675774519710607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock15_Reload_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 16
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a7ee2c0fa48060800000000000000
+      internalID: 6954876191428290708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glock15_Reload_sheet_0: -1097460238758986449
+      Glock15_Reload_sheet_1: 8425839248927454353
+      Glock15_Reload_sheet_10: -2424990535618990031
+      Glock15_Reload_sheet_11: -924893564649131905
+      Glock15_Reload_sheet_12: 7332562381563083418
+      Glock15_Reload_sheet_13: -2516617073017272371
+      Glock15_Reload_sheet_14: -2418676643248644064
+      Glock15_Reload_sheet_15: -3913763966316633582
+      Glock15_Reload_sheet_16: 8118278352856520107
+      Glock15_Reload_sheet_17: -3233632244473514908
+      Glock15_Reload_sheet_18: -2323597753352080017
+      Glock15_Reload_sheet_19: -528946226922316075
+      Glock15_Reload_sheet_2: 945303521466750602
+      Glock15_Reload_sheet_20: 4700470753386630584
+      Glock15_Reload_sheet_21: 4549650426222620746
+      Glock15_Reload_sheet_22: -4404675774519710607
+      Glock15_Reload_sheet_23: 6954876191428290708
+      Glock15_Reload_sheet_3: -4305284205022269438
+      Glock15_Reload_sheet_4: 2492079465394293937
+      Glock15_Reload_sheet_5: 5226093114624851014
+      Glock15_Reload_sheet_6: 8813884127391690381
+      Glock15_Reload_sheet_7: -2100569670640615075
+      Glock15_Reload_sheet_8: -129773921051901591
+      Glock15_Reload_sheet_9: 2986460209263003429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

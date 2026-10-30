@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 251d01117e516ca44bc4d3d118d19f36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1364435013616454194
+    second: m249-Squad_Reload_sheet_0
+  - first:
+      213: -9086734599637839753
+    second: m249-Squad_Reload_sheet_1
+  - first:
+      213: -65521802708227373
+    second: m249-Squad_Reload_sheet_2
+  - first:
+      213: 7367349490265945541
+    second: m249-Squad_Reload_sheet_3
+  - first:
+      213: 8056667906800556294
+    second: m249-Squad_Reload_sheet_4
+  - first:
+      213: 923136649537705611
+    second: m249-Squad_Reload_sheet_5
+  - first:
+      213: 806327635532324275
+    second: m249-Squad_Reload_sheet_6
+  - first:
+      213: 9186389045363233748
+    second: m249-Squad_Reload_sheet_7
+  - first:
+      213: -4558978293206649646
+    second: m249-Squad_Reload_sheet_8
+  - first:
+      213: 6840387282297423615
+    second: m249-Squad_Reload_sheet_9
+  - first:
+      213: -2087577408861175486
+    second: m249-Squad_Reload_sheet_10
+  - first:
+      213: -1421628523979568970
+    second: m249-Squad_Reload_sheet_11
+  - first:
+      213: 8213050230058911173
+    second: m249-Squad_Reload_sheet_12
+  - first:
+      213: -5287080002052960143
+    second: m249-Squad_Reload_sheet_13
+  - first:
+      213: 3952430911204661598
+    second: m249-Squad_Reload_sheet_14
+  - first:
+      213: -8231777463256633594
+    second: m249-Squad_Reload_sheet_15
+  - first:
+      213: 7285688626987713273
+    second: m249-Squad_Reload_sheet_16
+  - first:
+      213: -8083345602846615784
+    second: m249-Squad_Reload_sheet_17
+  - first:
+      213: -1686710274215800882
+    second: m249-Squad_Reload_sheet_18
+  - first:
+      213: -5122476727483351549
+    second: m249-Squad_Reload_sheet_19
+  - first:
+      213: 5975110720284996228
+    second: m249-Squad_Reload_sheet_20
+  - first:
+      213: 6666260819421461072
+    second: m249-Squad_Reload_sheet_21
+  - first:
+      213: -8304028687033870493
+    second: m249-Squad_Reload_sheet_22
+  - first:
+      213: -6286951805918236158
+    second: m249-Squad_Reload_sheet_23
+  - first:
+      213: -1806622180490348648
+    second: m249-Squad_Reload_sheet_24
+  - first:
+      213: 4374723157320129807
+    second: m249-Squad_Reload_sheet_25
+  - first:
+      213: -1601927959001268025
+    second: m249-Squad_Reload_sheet_26
+  - first:
+      213: -8325040796152835991
+    second: m249-Squad_Reload_sheet_27
+  - first:
+      213: 2394338545217530687
+    second: m249-Squad_Reload_sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac6b17a627fe210800000000000000
+      internalID: 1364435013616454194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d554760f65e180800000000000000
+      internalID: -9086734599637839753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da68808448371ff0800000000000000
+      internalID: -65521802708227373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 207
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f477d3551e3660800000000000000
+      internalID: 7367349490265945541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609132276c80fcf60800000000000000
+      internalID: 8056667906800556294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d6da44e3afcc00800000000000000
+      internalID: 923136649537705611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd1c7066b6a03b00800000000000000
+      internalID: 806327635532324275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d35a694a2c9c7f70800000000000000
+      internalID: 9186389045363233748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d473b695614bb0c0800000000000000
+      internalID: -4558978293206649646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60077cdffedee50800000000000000
+      internalID: 6840387282297423615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24103b7386f6703e0800000000000000
+      internalID: -2087577408861175486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 105
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b882a9b36c554ce0800000000000000
+      internalID: -1421628523979568970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50a1d6bad9af170800000000000000
+      internalID: 8213050230058911173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170df8210c480a6b0800000000000000
+      internalID: -5287080002052960143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5990ad09fad9d630800000000000000
+      internalID: 3952430911204661598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa580d20ad2cd80800000000000000
+      internalID: -8231777463256633594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c4bb7437fb1560800000000000000
+      internalID: 7285688626987713273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179c99600032df80800000000000000
+      internalID: -8083345602846615784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8d5231f99798e0800000000000000
+      internalID: -1686710274215800882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 59
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e36207e8e49e8b0800000000000000
+      internalID: -5122476727483351549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4823738ea8bdbe250800000000000000
+      internalID: 5975110720284996228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 57
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a78b955e0538c50800000000000000
+      internalID: 6666260819421461072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 59
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36751b0e7e922cc80800000000000000
+      internalID: -8304028687033870493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023e3864a240c8a0800000000000000
+      internalID: -6286951805918236158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f780e2b69de6e0800000000000000
+      internalID: -1806622180490348648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dddb6888326bc30800000000000000
+      internalID: 4374723157320129807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c086f7320fc4c9e0800000000000000
+      internalID: -1601927959001268025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960dcacf083877c80800000000000000
+      internalID: -8325040796152835991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m249-Squad_Reload_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b67bb98366a3120800000000000000
+      internalID: 2394338545217530687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      m249-Squad_Reload_sheet_0: 1364435013616454194
+      m249-Squad_Reload_sheet_1: -9086734599637839753
+      m249-Squad_Reload_sheet_10: -2087577408861175486
+      m249-Squad_Reload_sheet_11: -1421628523979568970
+      m249-Squad_Reload_sheet_12: 8213050230058911173
+      m249-Squad_Reload_sheet_13: -5287080002052960143
+      m249-Squad_Reload_sheet_14: 3952430911204661598
+      m249-Squad_Reload_sheet_15: -8231777463256633594
+      m249-Squad_Reload_sheet_16: 7285688626987713273
+      m249-Squad_Reload_sheet_17: -8083345602846615784
+      m249-Squad_Reload_sheet_18: -1686710274215800882
+      m249-Squad_Reload_sheet_19: -5122476727483351549
+      m249-Squad_Reload_sheet_2: -65521802708227373
+      m249-Squad_Reload_sheet_20: 5975110720284996228
+      m249-Squad_Reload_sheet_21: 6666260819421461072
+      m249-Squad_Reload_sheet_22: -8304028687033870493
+      m249-Squad_Reload_sheet_23: -6286951805918236158
+      m249-Squad_Reload_sheet_24: -1806622180490348648
+      m249-Squad_Reload_sheet_25: 4374723157320129807
+      m249-Squad_Reload_sheet_26: -1601927959001268025
+      m249-Squad_Reload_sheet_27: -8325040796152835991
+      m249-Squad_Reload_sheet_28: 2394338545217530687
+      m249-Squad_Reload_sheet_3: 7367349490265945541
+      m249-Squad_Reload_sheet_4: 8056667906800556294
+      m249-Squad_Reload_sheet_5: 923136649537705611
+      m249-Squad_Reload_sheet_6: 806327635532324275
+      m249-Squad_Reload_sheet_7: 9186389045363233748
+      m249-Squad_Reload_sheet_8: -4558978293206649646
+      m249-Squad_Reload_sheet_9: 6840387282297423615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

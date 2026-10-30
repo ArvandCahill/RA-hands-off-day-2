@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 1b8a1a2fae37bbc418df31c02be7cd3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3436628073524913376
+    second: AR15_Reload_sheet_0
+  - first:
+      213: 1583038761479538858
+    second: AR15_Reload_sheet_1
+  - first:
+      213: -8564021147702596813
+    second: AR15_Reload_sheet_2
+  - first:
+      213: 1240588832002579867
+    second: AR15_Reload_sheet_3
+  - first:
+      213: 1438553503952774662
+    second: AR15_Reload_sheet_4
+  - first:
+      213: -983049540611243423
+    second: AR15_Reload_sheet_5
+  - first:
+      213: 62883499391684639
+    second: AR15_Reload_sheet_6
+  - first:
+      213: 5492707450783533942
+    second: AR15_Reload_sheet_7
+  - first:
+      213: 2664288214954527432
+    second: AR15_Reload_sheet_8
+  - first:
+      213: 5620595565055962542
+    second: AR15_Reload_sheet_9
+  - first:
+      213: -3352369173803974639
+    second: AR15_Reload_sheet_10
+  - first:
+      213: -4075456269626299424
+    second: AR15_Reload_sheet_11
+  - first:
+      213: -962447093189877303
+    second: AR15_Reload_sheet_12
+  - first:
+      213: -5917323536102290088
+    second: AR15_Reload_sheet_13
+  - first:
+      213: 2435141517528284524
+    second: AR15_Reload_sheet_14
+  - first:
+      213: 6309284223238114312
+    second: AR15_Reload_sheet_15
+  - first:
+      213: -1503730993242088633
+    second: AR15_Reload_sheet_16
+  - first:
+      213: -5017700773535144890
+    second: AR15_Reload_sheet_17
+  - first:
+      213: -7004580743111375511
+    second: AR15_Reload_sheet_18
+  - first:
+      213: 1598054797897358129
+    second: AR15_Reload_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4669b560b51bf20800000000000000
+      internalID: 3436628073524913376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 153
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa889a3cd5518f510800000000000000
+      internalID: 1583038761479538858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 153
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be04ae32c762980800000000000000
+      internalID: -8564021147702596813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d94d348f4773110800000000000000
+      internalID: 1240588832002579867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 154
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606af714ac4c6f310800000000000000
+      internalID: 1438553503952774662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1628147b6a18b52f0800000000000000
+      internalID: -983049540611243423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f109973a5386fd000800000000000000
+      internalID: 62883499391684639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 106
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b081b23540a3c40800000000000000
+      internalID: 5492707450783533942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 106
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cacf97f30479f420800000000000000
+      internalID: 2664288214954527432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 96
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadeb4123ed500e40800000000000000
+      internalID: 5620595565055962542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 106
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c17f7ffdf971d0800000000000000
+      internalID: -3352369173803974639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb294f8d121177c0800000000000000
+      internalID: -4075456269626299424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16f4fc773b4a2f0800000000000000
+      internalID: -962447093189877303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 56
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8091689171eda0800000000000000
+      internalID: -5917323536102290088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 57
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d341aee4c5bc120800000000000000
+      internalID: 2435141517528284524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 57
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c8511b2941f8750800000000000000
+      internalID: 6309284223238114312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 57
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b5f06f0aca12be0800000000000000
+      internalID: -1503730993242088633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442c3c3bbb8d5ab0800000000000000
+      internalID: -5017700773535144890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650e4e0deabace90800000000000000
+      internalID: -7004580743111375511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR15_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd7403f5e6d2610800000000000000
+      internalID: 1598054797897358129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AR15_Reload_sheet_0: 3436628073524913376
+      AR15_Reload_sheet_1: 1583038761479538858
+      AR15_Reload_sheet_10: -3352369173803974639
+      AR15_Reload_sheet_11: -4075456269626299424
+      AR15_Reload_sheet_12: -962447093189877303
+      AR15_Reload_sheet_13: -5917323536102290088
+      AR15_Reload_sheet_14: 2435141517528284524
+      AR15_Reload_sheet_15: 6309284223238114312
+      AR15_Reload_sheet_16: -1503730993242088633
+      AR15_Reload_sheet_17: -5017700773535144890
+      AR15_Reload_sheet_18: -7004580743111375511
+      AR15_Reload_sheet_19: 1598054797897358129
+      AR15_Reload_sheet_2: -8564021147702596813
+      AR15_Reload_sheet_3: 1240588832002579867
+      AR15_Reload_sheet_4: 1438553503952774662
+      AR15_Reload_sheet_5: -983049540611243423
+      AR15_Reload_sheet_6: 62883499391684639
+      AR15_Reload_sheet_7: 5492707450783533942
+      AR15_Reload_sheet_8: 2664288214954527432
+      AR15_Reload_sheet_9: 5620595565055962542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d5a74a310987f5f4ebbdb494c4bd94e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2385228352783156524
+    second: FNscar_Reload_sheet_0
+  - first:
+      213: -7398388951206159682
+    second: FNscar_Reload_sheet_1
+  - first:
+      213: -8911231900830586070
+    second: FNscar_Reload_sheet_2
+  - first:
+      213: 7893087846366473281
+    second: FNscar_Reload_sheet_3
+  - first:
+      213: 3914415547630827251
+    second: FNscar_Reload_sheet_4
+  - first:
+      213: -9078289846389998397
+    second: FNscar_Reload_sheet_5
+  - first:
+      213: -3249795974996010769
+    second: FNscar_Reload_sheet_6
+  - first:
+      213: 2007867338286155763
+    second: FNscar_Reload_sheet_7
+  - first:
+      213: 8067111764531353441
+    second: FNscar_Reload_sheet_8
+  - first:
+      213: 6731256341221885494
+    second: FNscar_Reload_sheet_9
+  - first:
+      213: -3540471397075754761
+    second: FNscar_Reload_sheet_10
+  - first:
+      213: 1742944034489381598
+    second: FNscar_Reload_sheet_11
+  - first:
+      213: 7119146416866350835
+    second: FNscar_Reload_sheet_12
+  - first:
+      213: -4859831825856582189
+    second: FNscar_Reload_sheet_13
+  - first:
+      213: -318781773613734613
+    second: FNscar_Reload_sheet_14
+  - first:
+      213: -7123250821217826111
+    second: FNscar_Reload_sheet_15
+  - first:
+      213: 8306112398192893400
+    second: FNscar_Reload_sheet_16
+  - first:
+      213: 1113466683392046938
+    second: FNscar_Reload_sheet_17
+  - first:
+      213: -4567983349665256390
+    second: FNscar_Reload_sheet_18
+  - first:
+      213: -3060400348333960417
+    second: FNscar_Reload_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 158
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da7b2c5377f5eed0800000000000000
+      internalID: -2385228352783156524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 158
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba9e2d7274a35990800000000000000
+      internalID: -7398388951206159682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 157
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b2dd7ccc1f45480800000000000000
+      internalID: -8911231900830586070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 155
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c60afa391e98d60800000000000000
+      internalID: 7893087846366473281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63dcb733cc25630800000000000000
+      internalID: 3914415547630827251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 154
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc73e9cb7f630280800000000000000
+      internalID: -9078289846389998397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85ed567c766e2d0800000000000000
+      internalID: -3249795974996010769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c7aeb4b06ddb10800000000000000
+      internalID: 2007867338286155763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671440986324ff60800000000000000
+      internalID: 8067111764531353441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63640a68af93a6d50800000000000000
+      internalID: 6731256341221885494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f06ed7c508bddec0800000000000000
+      internalID: -3540471397075754761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 106
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed230276d5e203810800000000000000
+      internalID: 1742944034489381598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6505182f94cc260800000000000000
+      internalID: 7119146416866350835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 62
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2eafe3b86e8cb0800000000000000
+      internalID: -4859831825856582189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 62
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2562e67aa5739bf0800000000000000
+      internalID: -318781773613734613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 62
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca4d436e11252d90800000000000000
+      internalID: -7123250821217826111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 62
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd51cee73d354370800000000000000
+      internalID: 8306112398192893400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b0d49c04d37f00800000000000000
+      internalID: 1113466683392046938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 14
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cad4f78534b90c0800000000000000
+      internalID: -4567983349665256390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FNscar_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13921f09164785d0800000000000000
+      internalID: -3060400348333960417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FNscar_Reload_sheet_0: -2385228352783156524
+      FNscar_Reload_sheet_1: -7398388951206159682
+      FNscar_Reload_sheet_10: -3540471397075754761
+      FNscar_Reload_sheet_11: 1742944034489381598
+      FNscar_Reload_sheet_12: 7119146416866350835
+      FNscar_Reload_sheet_13: -4859831825856582189
+      FNscar_Reload_sheet_14: -318781773613734613
+      FNscar_Reload_sheet_15: -7123250821217826111
+      FNscar_Reload_sheet_16: 8306112398192893400
+      FNscar_Reload_sheet_17: 1113466683392046938
+      FNscar_Reload_sheet_18: -4567983349665256390
+      FNscar_Reload_sheet_19: -3060400348333960417
+      FNscar_Reload_sheet_2: -8911231900830586070
+      FNscar_Reload_sheet_3: 7893087846366473281
+      FNscar_Reload_sheet_4: 3914415547630827251
+      FNscar_Reload_sheet_5: -9078289846389998397
+      FNscar_Reload_sheet_6: -3249795974996010769
+      FNscar_Reload_sheet_7: 2007867338286155763
+      FNscar_Reload_sheet_8: 8067111764531353441
+      FNscar_Reload_sheet_9: 6731256341221885494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

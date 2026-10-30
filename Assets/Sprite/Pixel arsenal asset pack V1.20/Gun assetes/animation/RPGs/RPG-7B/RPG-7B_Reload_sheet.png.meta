@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 4349e6aab83d253479fcb9b593291e3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5366053235040107698
+    second: RPG-7B_Reload_sheet_0
+  - first:
+      213: -5285290979311958494
+    second: RPG-7B_Reload_sheet_1
+  - first:
+      213: -1629193397495779520
+    second: RPG-7B_Reload_sheet_2
+  - first:
+      213: -238146168307743414
+    second: RPG-7B_Reload_sheet_3
+  - first:
+      213: 7349812708580237901
+    second: RPG-7B_Reload_sheet_4
+  - first:
+      213: 5108785410300795068
+    second: RPG-7B_Reload_sheet_5
+  - first:
+      213: 2367069925030300411
+    second: RPG-7B_Reload_sheet_6
+  - first:
+      213: -2060144311728035455
+    second: RPG-7B_Reload_sheet_7
+  - first:
+      213: 8108535191600940615
+    second: RPG-7B_Reload_sheet_8
+  - first:
+      213: -286672083627383384
+    second: RPG-7B_Reload_sheet_9
+  - first:
+      213: 5448283847851665938
+    second: RPG-7B_Reload_sheet_10
+  - first:
+      213: 1880949308098159510
+    second: RPG-7B_Reload_sheet_11
+  - first:
+      213: 5989925834571835569
+    second: RPG-7B_Reload_sheet_12
+  - first:
+      213: -1098405264017469144
+    second: RPG-7B_Reload_sheet_13
+  - first:
+      213: 9222129297398753119
+    second: RPG-7B_Reload_sheet_14
+  - first:
+      213: 4301542262275481124
+    second: RPG-7B_Reload_sheet_15
+  - first:
+      213: 781727497463724351
+    second: RPG-7B_Reload_sheet_16
+  - first:
+      213: 3973805707080654098
+    second: RPG-7B_Reload_sheet_17
+  - first:
+      213: -6738220131274146159
+    second: RPG-7B_Reload_sheet_18
+  - first:
+      213: 1305270379973484724
+    second: RPG-7B_Reload_sheet_19
+  - first:
+      213: 6829842940807886339
+    second: RPG-7B_Reload_sheet_20
+  - first:
+      213: -8002974742002918729
+    second: RPG-7B_Reload_sheet_21
+  - first:
+      213: 6619989940827898585
+    second: RPG-7B_Reload_sheet_22
+  - first:
+      213: -8488531206559045583
+    second: RPG-7B_Reload_sheet_23
+  - first:
+      213: -7481541264466863503
+    second: RPG-7B_Reload_sheet_24
+  - first:
+      213: 2692805824078390439
+    second: RPG-7B_Reload_sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4349976303f785b0800000000000000
+      internalID: -5366053235040107698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c8836bdfd6a6b0800000000000000
+      internalID: -5285290979311958494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 205
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f2adf9c31f369e0800000000000000
+      internalID: -1629193397495779520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458569525fe1bcf0800000000000000
+      internalID: -238146168307743414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42a39ca7b7cff560800000000000000
+      internalID: 7349812708580237901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 205
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85dae534d06e640800000000000000
+      internalID: 5108785410300795068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa01f73e8589d020800000000000000
+      internalID: 2367069925030300411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a861e9a5e863e0800000000000000
+      internalID: -2060144311728035455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 157
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c020cbcd478070800000000000000
+      internalID: 8108535191600940615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 149
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56e504249850cf0800000000000000
+      internalID: -286672083627383384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 157
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a62ba1b413c9b40800000000000000
+      internalID: 5448283847851665938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 147
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69325b51e697a1a10800000000000000
+      internalID: 1880949308098159510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 157
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e6908fcd702350800000000000000
+      internalID: 5989925834571835569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 153
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d1d26b3ea1c0f0800000000000000
+      internalID: -1098405264017469144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ec2c2cb59bff70800000000000000
+      internalID: 9222129297398753119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 109
+        width: 99
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9241a5e522bb30800000000000000
+      internalID: 4301542262275481124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 109
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39fa75640149da00800000000000000
+      internalID: 781727497463724351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 109
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d56f88c3bc52730800000000000000
+      internalID: 3973805707080654098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 109
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb401cd780d72a0800000000000000
+      internalID: -6738220131274146159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a826be704d1210800000000000000
+      internalID: 1305270379973484724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063096f7f978ce50800000000000000
+      internalID: 6829842940807886339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 61
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1e7cafd8bfe090800000000000000
+      internalID: -8002974742002918729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 61
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c4b7e6cdeedb50800000000000000
+      internalID: 6619989940827898585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 61
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138ea3087dda23a80800000000000000
+      internalID: -8488531206559045583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a960fdbd93c2890800000000000000
+      internalID: -7481541264466863503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-7B_Reload_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ab4141a4ce5520800000000000000
+      internalID: 2692805824078390439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RPG-7B_Reload_sheet_0: -5366053235040107698
+      RPG-7B_Reload_sheet_1: -5285290979311958494
+      RPG-7B_Reload_sheet_10: 5448283847851665938
+      RPG-7B_Reload_sheet_11: 1880949308098159510
+      RPG-7B_Reload_sheet_12: 5989925834571835569
+      RPG-7B_Reload_sheet_13: -1098405264017469144
+      RPG-7B_Reload_sheet_14: 9222129297398753119
+      RPG-7B_Reload_sheet_15: 4301542262275481124
+      RPG-7B_Reload_sheet_16: 781727497463724351
+      RPG-7B_Reload_sheet_17: 3973805707080654098
+      RPG-7B_Reload_sheet_18: -6738220131274146159
+      RPG-7B_Reload_sheet_19: 1305270379973484724
+      RPG-7B_Reload_sheet_2: -1629193397495779520
+      RPG-7B_Reload_sheet_20: 6829842940807886339
+      RPG-7B_Reload_sheet_21: -8002974742002918729
+      RPG-7B_Reload_sheet_22: 6619989940827898585
+      RPG-7B_Reload_sheet_23: -8488531206559045583
+      RPG-7B_Reload_sheet_24: -7481541264466863503
+      RPG-7B_Reload_sheet_25: 2692805824078390439
+      RPG-7B_Reload_sheet_3: -238146168307743414
+      RPG-7B_Reload_sheet_4: 7349812708580237901
+      RPG-7B_Reload_sheet_5: 5108785410300795068
+      RPG-7B_Reload_sheet_6: 2367069925030300411
+      RPG-7B_Reload_sheet_7: -2060144311728035455
+      RPG-7B_Reload_sheet_8: 8108535191600940615
+      RPG-7B_Reload_sheet_9: -286672083627383384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
