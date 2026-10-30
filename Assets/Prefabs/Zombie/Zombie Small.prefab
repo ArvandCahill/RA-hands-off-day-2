@@ -115,6 +115,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombie Small
       objectReference: {fileID: 0}
+    - target: {fileID: 1103631598301865765, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4651153122178608660, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_SpriteLibraryAsset
       value: 
@@ -159,11 +167,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6815965494418308363, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: maxHealth
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7417576047922472199, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 5844978183212031120, guid: c0fc27ae2559f3b48999baec9dc98227, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 261876504004786272, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     m_RemovedGameObjects:
     - {fileID: 869285987618515786, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     - {fileID: 1905665351125475055, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
@@ -171,10 +184,34 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6419394237482475947, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6434572586498789605}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1103631598301865765, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2982032262308345942}
   m_SourcePrefab: {fileID: 100100000, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
 --- !u!4 &568936664085441698 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6419394237482475947, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
   m_PrefabInstance: {fileID: 6841814378956131593}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5882795105931946540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1103631598301865765, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+  m_PrefabInstance: {fileID: 6841814378956131593}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-2982032262308345942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5882795105931946540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d6e0cec9b1d278489c146e129515ac0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
+  moveSpeed: 1.5
+  animator: {fileID: 0}
+  damage: 1
+  damageCooldown: 1
