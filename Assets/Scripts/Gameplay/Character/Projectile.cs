@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Projectile : MonoBehaviour
@@ -7,11 +8,14 @@ public class Projectile : MonoBehaviour
     public int damage = 1;
 
     private Vector2 direction;
+    private float damageMultiplier = 1f;
 
-    public void Initialize(Vector2 shootDirection)
+    public void Initialize(Vector2 shootDirection, float multiplier)
     {
         direction = shootDirection.normalized;
+        damageMultiplier = multiplier;
     }
+
     private void Start()
     {
         Destroy(gameObject, lifeTime);
@@ -29,7 +33,7 @@ public class Projectile : MonoBehaviour
             Health health = collision.GetComponent<Health>();
 
             if (health != null)
-                health.TakeDamage(damage);
+                health.TakeDamage(Mathf.RoundToInt(damage * damageMultiplier));
 
             Destroy(gameObject);
         }

@@ -319,7 +319,7 @@ GameObject:
   - component: {fileID: 72541180265752070}
   - component: {fileID: 7797196839169072480}
   m_Layer: 0
-  m_Name: Projectile
+  m_Name: AK Proj
   m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   speed: 10
   lifeTime: 3
-  damage: 1
+  damage: 2
 --- !u!70 &7797196839169072480
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

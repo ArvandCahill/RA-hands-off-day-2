@@ -29,13 +29,21 @@ PrefabInstance:
       value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: b6c4451ce4d1fca4292a15adf03d033b, type: 2}
+    - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119562469479247794, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_Mass
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4651153122178608660, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_SpriteLibraryAsset
       value: 
-      objectReference: {fileID: 7108339969198208228, guid: 747a865416ec33146925517eeff4fb80, type: 3}
+      objectReference: {fileID: 7108339969198208228, guid: 77bd9ac5b8406ce46af80e6e8a4f60ae, type: 3}
     - target: {fileID: 6419394237482475947, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -78,7 +86,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6815965494418308363, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: maxHealth
-      value: 10
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 7417576047922472199, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Sprite
@@ -86,6 +94,7 @@ PrefabInstance:
       objectReference: {fileID: 5844978183212031120, guid: c0fc27ae2559f3b48999baec9dc98227, type: 3}
     m_RemovedComponents:
     - {fileID: 261876504004786272, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+    - {fileID: 2401721508057700104, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     m_RemovedGameObjects:
     - {fileID: 1905665351125475055, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     m_AddedGameObjects: []
@@ -118,5 +127,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
   moveSpeed: 2
   animator: {fileID: 3028228466455954586}
-  damage: 1
-  damageCooldown: 1
+  damage: 5
+  damageCooldown: 2
+  exp: 5

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bfc641258e1b6040b569aad4a14bb30, type: 3}
+  m_Name: Damage Boost Data
+  m_EditorClassIdentifier: Assembly-CSharp::DamageBoostData
+  cardImage: {fileID: 7374904362134635028, guid: ab88ec471a8f84f4d8a23aa6f5000d8f, type: 3}
+  cardTitle: Deadly Impact
+  cardDescriptionId: 
+  cardDescriptionEn: Increase weapon damage by 10%.
+  bonus: 0.1

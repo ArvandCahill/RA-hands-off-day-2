@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 237545345907898019, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_SortingOrder
+      value: 98
+      objectReference: {fileID: 0}
     - target: {fileID: 364224143112964416, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_labelHash
       value: 7.9703254e-21
@@ -30,23 +34,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Size.x
-      value: 0.8020784
+      value: 2.0242887
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Size.y
-      value: 1.2441893
+      value: 2.843993
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: b6c4451ce4d1fca4292a15adf03d033b, type: 2}
+    - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Offset.x
-      value: 0.000000029802322
+      value: -0.014904976
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Offset.y
-      value: -0.005851269
+      value: -0.0008827448
       objectReference: {fileID: 0}
     - target: {fileID: 1675277121044047330, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119562469479247794, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: m_Mass
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 4651153122178608660, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_SpriteLibraryAsset
@@ -112,24 +124,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6815965494418308363, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+      propertyPath: maxHealth
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 7417576047922472199, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 3177806693994598161, guid: 1012e32c202bab94387f83eed059bb5a, type: 3}
     - target: {fileID: 8284424495349818484, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8284424495349818484, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8284424495349818484, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 261876504004786272, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
+    - {fileID: 2401721508057700104, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     m_RemovedGameObjects:
     - {fileID: 1905665351125475055, guid: 4e6a44a62e4932440b70babe578550df, type: 3}
     m_AddedGameObjects: []
@@ -157,5 +174,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
   moveSpeed: 1
   animator: {fileID: 0}
-  damage: 1
-  damageCooldown: 1
+  damage: 30
+  damageCooldown: 5
+  exp: 1

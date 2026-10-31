@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9589e4441340db4495ca960d6943ecd, type: 3}
+  m_Name: MP5
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponPowerUpData
+  cardImage: {fileID: -2384850958105000590, guid: 94cb1659b4779a94bb7472d33d6ee17a, type: 3}
+  cardTitle: AK-47
+  cardDescriptionId: 
+  cardDescriptionEn: Change your weapon to MP5
+  weaponPrefab: {fileID: 1733109278680057529, guid: 5d9953de10f03e141b19006edc4973a3, type: 3}

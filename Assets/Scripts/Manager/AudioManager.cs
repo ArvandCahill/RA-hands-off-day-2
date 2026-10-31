@@ -6,7 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 [Serializable]
-public class AudioManager
+public class AudioManager : MonoBehaviour
 {
     #region VARIABLES
 
@@ -160,127 +160,7 @@ public class AudioManager
         }
     }
 
-    #endregion
-
-    #region SFX 3D (POOLING)
-
-    private AudioSource GetPooledSource()
-    {
-        if (sfxPool.Count > 0)
-        {
-            AudioSource source = sfxPool.Dequeue();
-            source.gameObject.SetActive(true);
-
-            source.pitch = 1f;
-            source.volume = 1f;
-
-            return source;
-        }
-        else
-        {
-            GameObject obj = GameObject.Instantiate(sfx3DPrefab);
-            return obj.GetComponent<AudioSource>();
-        }
-    }
-
-    private void ReturnToPool(AudioSource source)
-    {
-        source.Stop();
-        source.gameObject.SetActive(false);
-        sfxPool.Enqueue(source);
-    }
-
-    private IEnumerator ReturnAfterPlay(AudioSource source, float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        ReturnToPool(source);
-    }
-
-    public void PlaySFXAtPosition(string sfxName, Vector3 position)
-    {
-        if (!sfxList.TryGetValue(sfxName, out AudioClip clip))
-        {
-            Debug.LogWarning($"SFX '{sfxName}' tidak ditemukan!");
-            return;
-        }
-
-        AudioSource source = GetPooledSource();
-
-        source.transform.position = position;
-        source.clip = clip;
-
-        source.spatialBlend = spatialBlend;
-        source.minDistance = minDistance;
-        source.maxDistance = maxDistance;
-
-        source.outputAudioMixerGroup = audioMixerGroup;
-
-        source.Play();
-
-        GameManager.instance.StartCoroutine(ReturnAfterPlay(source, clip.length));
-    }
-
-    public void PlaySFXAtPositionWithVelocity(string sfxName, Vector3 position, float velocity, float maxVelocity = 10f)
-    {
-        if (velocity < 1f) return;
-
-        if (!sfxList.TryGetValue(sfxName, out AudioClip clip))
-            return;
-
-        float t = Mathf.Clamp01(velocity / maxVelocity);
-
-        AudioSource source = GetPooledSource();
-
-        source.transform.position = position;
-        source.clip = clip;
-
-        source.spatialBlend = spatialBlend;
-        source.minDistance = minDistance;
-        source.maxDistance = maxDistance;
-
-        source.volume = Mathf.Lerp(minVolume, maxVolume, t);
-        source.pitch = Mathf.Lerp(minPitch, maxPitch, t);
-
-        source.outputAudioMixerGroup = audioMixerGroup;
-
-        source.Play();
-
-        GameManager.instance.StartCoroutine(ReturnAfterPlay(source, clip.length));
-    }
-
-    public void PlayLoopingSFX(string sfxName)
-    {
-        if (!sfxList.TryGetValue(sfxName, out AudioClip clip))
-        {
-            Debug.LogWarning($"SFX '{sfxName}' tidak ditemukan!");
-            return;
-        }
-
-        if (sfxSource.isPlaying && currentLoopClip == clip)
-            return;
-
-        sfxSource.Stop();
-
-        sfxSource.clip = clip;
-        sfxSource.loop = true;
-        sfxSource.Play();
-
-        currentLoopClip = clip;
-    }
-
-    public void StopLoopingSFX()
-    {
-        if (!sfxSource.isPlaying)
-            return;
-
-        sfxSource.Stop();
-        sfxSource.loop = false;
-        sfxSource.clip = null;
-
-        currentLoopClip = null;
-    }
-
-    #endregion
+    #endregion  
 
     #region VOLUME
 

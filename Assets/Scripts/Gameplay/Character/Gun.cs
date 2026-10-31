@@ -15,6 +15,17 @@ public class Gun : MonoBehaviour
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform firePoint;
     [SerializeField] private float fireRate = 0.2f;
+    private PlayerStats playerStats;
+
+    private float CurrentFireRate =>
+        fireRate / (playerStats != null
+            ? playerStats.FireRateMultiplier
+            : 1f);
+
+    private float CurrentReloadTime =>
+        reloadTime * (playerStats != null
+            ? playerStats.ReloadTimeMultiplier
+            : 1f);
 
     [Header("Shotgun Settings")]
     [SerializeField, Min(1)] private int pelletsPerShot = 6;
@@ -39,7 +50,8 @@ public class Gun : MonoBehaviour
 
     [Header("Audio Settings")]
     [SerializeField] private AudioSource audioSource;
-    [SerializeField] private AudioClip pistolShootSound;
+    [SerializeField] private AudioClip shootSound;
+    [SerializeField] private AudioClip emptyGunSound;
     [SerializeField] private AudioClip reloadSound;
 
     public int CurrentAmmo => currentAmmo;
@@ -49,6 +61,15 @@ public class Gun : MonoBehaviour
     private void Awake()
     {
         currentAmmo = maxAmmo;
+
+        if (player == null)
+            player = transform.parent;
+
+        if (playerMovement == null && player != null)
+            playerMovement = player.GetComponent<PlayerMovement>();
+
+        if (player != null)
+            playerStats = player.GetComponent<PlayerStats>();
     }
 
     private void Update()
@@ -70,7 +91,8 @@ public class Gun : MonoBehaviour
 
         if (currentAmmo <= 0)
         {
-            GameManager.instance.audioManager.PlaySFX("EmptyGun");
+            if (audioSource != null && emptyGunSound != null)
+                audioSource.PlayOneShot(emptyGunSound);
             return;
         }
 
@@ -130,10 +152,7 @@ public class Gun : MonoBehaviour
 
     private void TryShoot()
     {
-        if (Time.time < nextFireTime)
-            return;
-
-        if (currentAmmo <= 0)
+        if (Time.time < nextFireTime || currentAmmo <= 0)
             return;
 
         if (projectilePrefab == null || firePoint == null)
@@ -145,45 +164,45 @@ public class Gun : MonoBehaviour
             return;
 
         Vector3 mousePosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 direction = (mousePosition - firePoint.position).normalized;
+        Vector2 direction = (
+            (Vector2)mousePosition - (Vector2)firePoint.position
+        ).normalized;
 
         if (weaponType == WeaponType.Shotgun)
-        {
             ShootShotgun(direction);
-        }
         else
-        {
-            ShootProjectile();
-        }
+            ShootProjectile(direction);
 
         currentAmmo--;
-        nextFireTime = Time.time + fireRate;
+        nextFireTime = Time.time + CurrentFireRate;
 
-        if (audioSource != null && pistolShootSound != null)
-            audioSource.PlayOneShot(pistolShootSound);
+        if (audioSource != null && shootSound != null)
+            audioSource.PlayOneShot(shootSound);
 
         if (currentAmmo <= 0)
             StartReload();
     }
 
-    private void ShootProjectile()
+    private void ShootProjectile(Vector2 direction)
     {
-        Vector3 mousePosition = Camera.main.ScreenToWorldPoint(
-            Input.mousePosition
-        );
-
-        Vector2 direction = (
-            (Vector2)mousePosition - (Vector2)firePoint.position
-        ).normalized;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
         GameObject projectileObject = Instantiate(
             projectilePrefab,
             firePoint.position,
-            Quaternion.Euler(0f, 0f, currentAngle - 90f)
+            Quaternion.Euler(0f, 0f, angle - 90f)
         );
 
         Projectile projectile = projectileObject.GetComponent<Projectile>();
-        projectile.Initialize(direction);
+
+        if (projectile != null)
+        {
+            float damageMultiplier = playerStats != null
+                ? playerStats.DamageMultiplier
+                : 1f;
+
+            projectile.Initialize(direction, damageMultiplier);
+        }
     }
 
     private void ShootShotgun(Vector2 direction)
@@ -192,7 +211,11 @@ public class Gun : MonoBehaviour
 
         for (int i = 0; i < pelletsPerShot; i++)
         {
-            float spread = Random.Range(-spreadAngle / 2f, spreadAngle / 2f);
+            float spread = Random.Range(
+                -spreadAngle / 2f,
+                spreadAngle / 2f
+            );
+
             float shotAngle = baseAngle + spread;
 
             Vector2 shotDirection = new Vector2(
@@ -200,7 +223,7 @@ public class Gun : MonoBehaviour
                 Mathf.Sin(shotAngle * Mathf.Deg2Rad)
             );
 
-            ShootProjectile();
+            ShootProjectile(shotDirection);
         }
     }
 
@@ -219,7 +242,7 @@ public class Gun : MonoBehaviour
         if (audioSource != null && reloadSound != null)
             audioSource.PlayOneShot(reloadSound);
 
-        yield return new WaitForSeconds(reloadTime);
+        yield return new WaitForSeconds(CurrentReloadTime);
 
         currentAmmo = maxAmmo;
         isReloading = false;

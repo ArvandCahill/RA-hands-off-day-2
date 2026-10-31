@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9589e4441340db4495ca960d6943ecd, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponPowerUpData
+  cardImage: {fileID: 6407226241554960098, guid: 94cb1659b4779a94bb7472d33d6ee17a, type: 3}
+  cardTitle: AK-47
+  cardDescriptionId: 
+  cardDescriptionEn: Change your weapon to AK-47
+  weaponPrefab: {fileID: 1733109278680057529, guid: dc37a8c303e4fc74ba5e51e980890831, type: 3}

@@ -91,15 +91,15 @@ public class EnemyMovement : MonoBehaviour
         }
     }
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnCollisionStay2D(Collision2D collision)
     {
-        if (!collision.CompareTag("Player"))
+        if (!collision.collider.CompareTag("Player"))
             return;
 
         if (Time.time < nextDamageTime)
             return;
 
-        Health health = collision.GetComponent<Health>();
+        Health health = collision.gameObject.GetComponent<Health>();
 
         if (health == null)
             return;
